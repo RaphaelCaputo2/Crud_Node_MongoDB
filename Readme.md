@@ -5,9 +5,12 @@
 * MongoDB (banco de dados)
 * JWT (Token para autenticação que expira em 24h)
 * CryptoJS (Cria uma hash que deixa o password encriptado)
-## O que é necessário?
+## O que é necessário:
 * NodeJs 11.x.x
 * Insomnia Para testar a API  [Download Aqui](https://insomnia.rest/download/)
+
+## Como iniciar os testes:
+<code> Faça o clone do projeto </code>
 
 ## Features:
 * *Query* de Registro:<br>
