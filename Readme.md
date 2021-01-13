@@ -16,22 +16,22 @@
 
 ## Features: <br>
 
-* *Query* de Registro:<br>
+* *EndPoint* de Registro:<br>
  <http://localhost:3000/auth/register>
   
-* *Query* de Autenticação:<br>
+* *EndPoint* de Autenticação:<br>
   <http://localhost:3000/auth/authenticate>
   
-* *Query* de Forgot Password:<br>
+* *EndPoint* de Forgot Password:<br>
  <http://localhost:3000/auth/forgot_password>* 
   
-* *Query* de Reset Password:<br>
+* *EndPoint* de Reset Password:<br>
    <http://localhost:3000/auth/reset_password>*
 
- * *Query* de listar todos os projeto:<br>
+ * *EndPoint* de listar todos os projeto:<br>
    <http://localhost:3000/projects>
   
-#### para acessar as Query do Forgot e reset password, é necessário configuração do [mailtrap](https://mailtrap.io/inboxes)
+#### para acessar as endPoint do Forgot e reset password, é necessário configuração do [mailtrap](https://mailtrap.io/inboxes)
 
 <hr>
 
@@ -94,7 +94,7 @@
 
 <hr>
 
-#### Feito isso, vamos a configuração da nossa requisição, nossa *BASEURL* que criamos, um pouco acima, o caminho vai ser:
+#### Feito isso, vamos a configuração da nossa requisição, nossa *BASEURL* que criamos, um pouco acima, o endpoint vai ser:
 <code>*baseURL*/auth/register</code>
 
 <img src="src/imgReadme/linkAndJson.png" width="500" height="400" />
@@ -116,7 +116,7 @@
 
 #### Coloque o email e senha que você, acabou de criar!
 
- ##### O caminho será:
+ ##### O endpoint será:
 
 <code>baseurl/auth/authenticate</code>
 
@@ -178,7 +178,7 @@ se atente as configurações das requisições da API:
 
 <img src="src/imgReadme/readingALL.png" style="max-width=100%;" />
 
-<strong>Para requisitar somente um projeto, você pode usar o ID do projeto/usuário,para fazer a query</strong>
+<strong>Para requisitar somente um projeto, você pode usar o ID do projeto/usuário,para fazer a requisição</strong>
 
 <i>
   <code>baseUrl/projects/ID</code>
@@ -228,7 +228,7 @@ Apague o JSON que esta la, e cole o que voce copiou. Pronto, agora ja configuram
 <img src="/src/imgReadme/forgot1.png">
 </p>
 
-<p>Depois criar o caminho e qual email queremos, o caminho sera
+<p>Depois criar o endpoint e qual email queremos, o endpoint sera
 <code>baseUrl/auth/forgot_password</code>
 O email pode ser algum que voce criou no começo, ele precisa estar no banco de dados,
 pois assim iremos resetar somente a senha.
@@ -240,7 +240,7 @@ Copie somente o <i>token</i>
  </p>
 
  <p>Com o token em mãos, vamos agora resetar a senha no insomnia
- a query para fazer o reset é:<br>
+ o endpoint para fazer o reset é:<br>
  <code>baseUrl/auth/reset_password</code>
  Ficará assim:
 
@@ -248,7 +248,7 @@ Copie somente o <i>token</i>
  </p>
 
  <p>Depois iremos autenticar a nova senha:<br>
- na query:
+ no endPoint:
 
  <code>baseUrl/auth/authenticate</code>
 
