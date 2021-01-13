@@ -1,53 +1,71 @@
-# Bem vindo ao repositório de CRUD com NodeJs + Express + MongoDb do candidato Raphael Caputo: ##
-Tecnologias que foram ustilizadas: - NodeJs + Express (para fazer as rotas das API) - MongoDB (banco
-de dados) - JWT (Token para autenticação que expira em 24h) - CryptoJS (Cria uma hash que deixa o
-password encriptado)
-<br />
-<hr />
+# Bem vindo ao repositório de CRUD com NodeJs + Express + MongoDb do candidato Raphael Caputo:
 
-## O que é necessário: - NodeJs 11.x.x - Insomnia Para testar a API [Download
-Aqui](https://insomnia.rest/download/)
-<br />
-<hr />
+## Tecnologias que foram ustilizadas:
+* NodeJs + Express (para fazer as rotas das API)
+* MongoDB (banco de dados)
+* JWT (Token para autenticação que expira em 24h)
+* CryptoJS (Cria uma hash que deixa o password encriptado)
+<br>
+<hr>
 
-## Features: <br />
+## O que é necessário:
+* NodeJs 11.x.x
+* Insomnia Para testar a API  [Download Aqui](https://insomnia.rest/download/)
+<br>
+<hr>
 
-- _Query_ de Registro:<br />
-<http://localhost:3000/auth/register> - _Query_ de Autenticação:<br />
-<http://localhost:3000/auth/authenticate> - _Query_ de Forgot Password:<br />
-<http://localhost:3000/auth/forgot_password>\* - _Query_ de Reset Password:<br />
-<http://localhost:3000/auth/reset_password>\* - _Query_ de listar todos os projeto:<br />
-<http://localhost:3000/projects> #### para acessar as Query do Forgot e reset password, é necessário
-configuração do [mailtrap](https://mailtrap.io/inboxes)
+## Features: <br>
 
-<hr />
+* *Query* de Registro:<br>
+ <http://localhost:3000/auth/register>
+  
+* *Query* de Autenticação:<br>
+  <http://localhost:3000/auth/authenticate>
+  
+* *Query* de Forgot Password:<br>
+ <http://localhost:3000/auth/forgot_password>* 
+  
+* *Query* de Reset Password:<br>
+   <http://localhost:3000/auth/reset_password>*
 
-### Para fazer o crud, é necessário estar autenticado com o token. ## Vamos registrar, e autenticar
-com o token que iremos gerar:
+ * *Query* de listar todos os projeto:<br>
+   <http://localhost:3000/projects>
+  
+#### para acessar as Query do Forgot e reset password, é necessário configuração do [mailtrap](https://mailtrap.io/inboxes)
 
-<br />
+<hr>
+
+
+### Para fazer o crud, é necessário estar autenticado com o token.
+
+## Vamos registrar, e autenticar com o token que iremos gerar:
+<br>
 * Faça o clone do projeto
-<br />
-<code>git clone https://github.com/RaphaelCaputo2/vagas.git</code><br />
-<br />
+<br>
+<code>git clone https://github.com/RaphaelCaputo2/vagas.git</code><br>
+<br>
 
-- Navege ate a pasta do Projeto<br />
-<code>cd Vagas</code><br />
-<br />
 
-* Instale as dependências<br />
+* Navege ate a pasta do Projeto<br>
+<code>cd Vagas</code><br>
+<br>
+
+
+* Instale as dependências<br>
 <code>npm install</code>
-<br />
-<br />
+<br>
+<br>
 
-- Inicie o servidor<br />
+
+* Inicie o servidor<br>
 <code>npm start</code>
-<br />
+<br>
 
-## Configurando o [Insomnia](https://insomnia.rest/download/) ### Inicie o insomnia, clique em _New
-Workspace_ e escolha o nome do seu _Workspace_
 
-<br />
+## Configurando o [Insomnia](https://insomnia.rest/download/)
+
+### Inicie o insomnia, clique em *New Workspace* e escolha o nome do seu *Workspace*
+<br>
 
 <img src="src/imgReadme/Iniciando_config.png" alt="Iniciando_configuracao" width="400" />
 <br />
