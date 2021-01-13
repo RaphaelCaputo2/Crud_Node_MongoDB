@@ -21,15 +21,26 @@
   
 * *EndPoint* de Autenticação:<br>
   <http://localhost:3000/auth/authenticate>
-  
+
+  * *Endpoint* de Criar:<br>
+  <http://localhost:3000/projects>
+
+  *  * *EndPoint* de listar todos os projeto:<br>
+   <http://localhost:3000/projects>
+
+  * *Endpoint* de editar:<br>
+  <http://localhost:3000/projects{id}>
+
+  * *EndPoint* de Deletar:<br>
+  <http://localhost:3000/projects/{id}>
+
 * *EndPoint* de Forgot Password:<br>
- <http://localhost:3000/auth/forgot_password>* 
+ <http://localhost:3000/auth/forgot_password>
   
 * *EndPoint* de Reset Password:<br>
-   <http://localhost:3000/auth/reset_password>*
+   <http://localhost:3000/auth/reset_password>
 
- * *EndPoint* de listar todos os projeto:<br>
-   <http://localhost:3000/projects>
+
   
 #### para acessar as endPoint do Forgot e reset password, é necessário configuração do [mailtrap](https://mailtrap.io/inboxes)
 
