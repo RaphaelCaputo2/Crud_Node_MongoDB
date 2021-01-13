@@ -12,13 +12,18 @@
 ## Como iniciar os testes:
 <br>
 Faça o clone do projeto<br>
-<code>git clone git@github.com:RaphaelCaputo2/vagas.git </code><br>
+<code>git clone https://github.com/RaphaelCaputo2/vagas.git</code><br>
+<br>
 Navege ate a pasta do Projeto<br>
 <code>cd Vagas</code><br>
+<br>
 Instale as dependências<br>
 <code>npm install</code>
+<br>
+<br>
 Inicie o servidor<br>
 <code>npm start</br>
+<br>
 <br>
 <br>
 
