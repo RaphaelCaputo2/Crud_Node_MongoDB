@@ -1,6 +1,6 @@
 # Bem vindo ao repositório de CRUD com NodeJs + Express + MongoDb do candidato Raphael Caputo:
 
-## Tecnologias que foram ustilizadas:
+## Tecnologias que foram utilizadas:
 * NodeJs + Express (para fazer as rotas das API)
 * MongoDB (banco de dados)
 * JWT (Token para autenticação que expira em 24h)
