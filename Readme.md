@@ -126,7 +126,7 @@ Inicie o servidor<br>
 <br>
 <br>
 
-<img src="src/imgReadme/linkAndJson.png" style="max-width=100%;">
+<img src="src/imgReadme/linkAndJson.png" width="400" height="400">
 <br>
 <br>
 <br>
