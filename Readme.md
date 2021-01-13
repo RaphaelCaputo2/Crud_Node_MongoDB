@@ -204,8 +204,7 @@ Configure, e logo depois aperte SEND :
 
 Lembrete: Na aba *Header* voce coloca <i>Authorization</i>, <i>bearer + o token</i> que copiamos no *Environments* 
 
-<img src="src/imgReadme/deletando.png" width="350" />
-<img src="src/imgReadme/configuracaoReading.png" width="350" />
+<img src="src/imgReadme/deletando.png" width="350"> <img src="src/imgReadme/configuracaoReading.png" width="350">
 
 
 
