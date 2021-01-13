@@ -22,7 +22,7 @@
   * *EndPoint* de Autenticação:<br>
   <http://localhost:3000/auth/authenticate>
 
-  * *EndPpoint* de Criar:<br>
+  * *EndPoint* de Criar:<br>
   <http://localhost:3000/projects>
 
   *  *EndPoint* de listar todos os projeto:<br>
