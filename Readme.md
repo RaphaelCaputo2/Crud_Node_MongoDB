@@ -63,12 +63,16 @@ Inicie o servidor<br>
 <br>
 <br>
 
+<hr>
+
 ### Adicione Environment:
 <br>
+
 
 #### Clique em *Manage Environments* :
 <br>
 <p>
+
 <img src="src/imgReadme/config_environments.png" alt="environments" 
  width="200" height="320">
 
@@ -109,7 +113,7 @@ Inicie o servidor<br>
 
 <br>
 <br>
-<img src="src/imgReadme/add_post_request.png" style="max-width=100%;">
+<img src="src/imgReadme/add_post_request.png" height="350">
 <br>
 <br>
 <br>
