@@ -10,7 +10,17 @@
 * Insomnia Para testar a API  [Download Aqui](https://insomnia.rest/download/)
 
 ## Como iniciar os testes:
-<code> Faça o clone do projeto </code>
+<br>
+Faça o clone do projeto<br>
+<code>git clone git@github.com:RaphaelCaputo2/vagas.git </code><br>
+Navege ate a pasta do Projeto<br>
+<code>cd Vagas</code><br>
+Instale as dependências<br>
+<code>npm install</code>
+Inicie o servidor<br>
+<code>npm start</br>
+<br>
+<br>
 
 ## Features:
 * *Query* de Registro:<br>
