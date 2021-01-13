@@ -33,28 +33,30 @@
   
 #### para acessar as Query do Forgot e reset password, é necessário configuração do [mailtrap](https://mailtrap.io/inboxes)
 
-## Fazendo o Crud:
+<hr>
+
+
 ### Para fazer o crud, é necessário estar autenticado com o token.
 
-## Como iniciar os testes:
+## Vamos registrar, e autenticar com o token que iremos gerar:
 <br>
-Faça o clone do projeto<br>
+. Faça o clone do projeto<br>
 <code>git clone https://github.com/RaphaelCaputo2/vagas.git</code><br>
 <br>
 
 
-Navege ate a pasta do Projeto<br>
+. Navege ate a pasta do Projeto<br>
 <code>cd Vagas</code><br>
 <br>
 
 
-Instale as dependências<br>
+. Instale as dependências<br>
 <code>npm install</code>
 <br>
 <br>
 
 
-Inicie o servidor<br>
+. Inicie o servidor<br>
 <code>npm start</br>
 <br>
 <br>
