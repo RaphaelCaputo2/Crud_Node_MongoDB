@@ -205,6 +205,54 @@ Configure, e logo depois aperte SEND :
 Lembrete: Na aba *Header* voce coloca <i>Authorization</i>, <i>bearer + o token</i> que copiamos no *Environments* 
 
 <img src="src/imgReadme/deletando.png" width="350"> <img src="src/imgReadme/configuracaoReading.png" width="350">
+<hr>
+
+## Recuperando e resetando a senha!
+
+### Para resetar e recuperar a sennha é necessário cadastro no (mailTrap)[https://mailtrap.io/inboxes], iremos usar esse serviço para simular uma recuperação, pois ele simula uma caixa de email!
+
+<p> Entre no (site)[https://mailtrap.io/inboxes] e cadastre-se, assim que terminar o cadastro,
+vá na aba de configurações
+<img src="/src/imgReadme/mailtrap1.png/"><br>
+Selecione <i>Nodemailer</i>
+<img src="/src/imgReadme/mailtrap2.png"><br>
+Copie a váriavel.</p>
+
+<p> Agora voltamos ao vsCode ou seu editor de preferência, vá no arquivo
+<code>src/config/mail.json</code>
+Apague o JSON que esta la, e cole o que voce copiou. Pronto, agora ja configuramos a porta, usuario e password para enviar o email de recuperação.</p>
+
+#### Voltamos ao Insomnia para fazer as requisições
+
+<p>Primeiro, iremos fazer duas requisições a API com o método POST
+<img src="/src/imgReadme/forgot1.png">
+</p>
+
+<p>Depois criar o caminho e qual email queremos, o caminho sera
+<code>baseUrl/auth/forgot_password</code>
+O email pode ser algum que voce criou no começo, ele precisa estar no banco de dados,
+pois assim iremos resetar somente a senha.
+</p>
+
+<p>Agora iremos la no mailTrap ver nosso "inbox", la iremos encontrar o token que irá resetar nossa senha
+<img src="/src/imgReadme/mailtrapToken.png">
+Copie somente o <i>token</i>
+ </p>
+
+ <p>Com o token em mãos, vamos agora resetar a senha no insomnia
+ a query para fazer o reset é:<br>
+ <code>baseUrl/auth/reset_password</code>
+ Ficará assim:
+
+ <img src="/src/imgReadme/forgot3.png">
+ </p>
+
+ <p>Depois iremos autenticar a nova senha:<br>
+ na query:
+ 
+ <code>baseUrl/auth/authenticate</code>
+
+ <img src="/src/imgReadme/forgot4.png">
 
 
 
