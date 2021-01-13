@@ -16,28 +16,28 @@
 
 ## Features: <br>
 
-* *EndPoint* de Registro:<br>
- <http://localhost:3000/auth/register>
+  * *EndPoint* de Registro:<br>
+  <http://localhost:3000/auth/register>
   
-* *EndPoint* de Autenticação:<br>
+  * *EndPoint* de Autenticação:<br>
   <http://localhost:3000/auth/authenticate>
 
-  * *Endpoint* de Criar:<br>
+  * *EndPpoint* de Criar:<br>
   <http://localhost:3000/projects>
 
-  *  * *EndPoint* de listar todos os projeto:<br>
+  *  *EndPoint* de listar todos os projeto:<br>
    <http://localhost:3000/projects>
 
-  * *Endpoint* de editar:<br>
+  * *EndPoint* de editar:<br>
   <http://localhost:3000/projects{id}>
 
   * *EndPoint* de Deletar:<br>
   <http://localhost:3000/projects/{id}>
 
-* *EndPoint* de Forgot Password:<br>
- <http://localhost:3000/auth/forgot_password>
+  * *EndPoint* de Forgot Password:<br>
+  <http://localhost:3000/auth/forgot_password>
   
-* *EndPoint* de Reset Password:<br>
+  * *EndPoint* de Reset Password:<br>
    <http://localhost:3000/auth/reset_password>
 
 
