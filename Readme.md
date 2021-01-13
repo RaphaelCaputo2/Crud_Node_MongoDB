@@ -6,11 +6,13 @@
 * JWT (Token para autenticação que expira em 24h)
 * CryptoJS (Cria uma hash que deixa o password encriptado)
 <br>
+<hr>
 
 ## O que é necessário:
 * NodeJs 11.x.x
 * Insomnia Para testar a API  [Download Aqui](https://insomnia.rest/download/)
 <br>
+<hr>
 
 ## Features: <br>
 
