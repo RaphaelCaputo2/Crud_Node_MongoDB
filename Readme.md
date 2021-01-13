@@ -40,27 +40,29 @@
 
 ## Vamos registrar, e autenticar com o token que iremos gerar:
 <br>
-. Faça o clone do projeto<br>
+* Faça o clone do projeto
+<br>
 <code>git clone https://github.com/RaphaelCaputo2/vagas.git</code><br>
 <br>
 
 
-. Navege ate a pasta do Projeto<br>
+* Navege ate a pasta do Projeto<br>
 <code>cd Vagas</code><br>
 <br>
 
 
-. Instale as dependências<br>
+* Instale as dependências<br>
 <code>npm install</code>
 <br>
 <br>
 
 
-. Inicie o servidor<br>
+* Inicie o servidor<br>
 <code>npm start</br>
 <br>
 <br>
 <br>
+
 ## Configurando o [Insomnia](https://insomnia.rest/download/)
 
 ### Inicie o insomnia, clique em *New Workspace* e escolha o nome do seu *Workspace*
