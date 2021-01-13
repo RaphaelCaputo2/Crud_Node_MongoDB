@@ -254,5 +254,5 @@ Copie somente o <i>token</i>
 
  <img src="/src/imgReadme/forgot4.png">
 
-
+<hr>
 
