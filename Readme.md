@@ -197,9 +197,11 @@ se atente as configurações das requisições da API:
 <img src="src/imgReadme/update.png" style="max-width=100%;">
 
 <hr>
+
 ### Agora vamos fazer, o DELETE (necessário também o ID do projeto/usuario):
 
 Configure, e logo depois aperte SEND :
+
 Lembrete: Na aba *Header* voce coloca <i>Authorization</i>, <i>bearer + o token</i> que copiamos no *Environments* 
 
 <img src="src/imgReadme/deletando.png" style="max-width=100%;" /><br />
