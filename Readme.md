@@ -58,10 +58,9 @@
 
 
 * Inicie o servidor<br>
-<code>npm start</br>
+<code>npm start</code>
 <br>
-<br>
-<br>
+
 
 ## Configurando o [Insomnia](https://insomnia.rest/download/)
 
