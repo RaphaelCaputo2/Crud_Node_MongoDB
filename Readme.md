@@ -68,11 +68,12 @@ Inicie o servidor<br>
 
 #### Clique em *Manage Environments* :
 <br>
-
+<p style="align: left" style="max-width: 100%">
 <img src="src/imgReadme/config_environments.png" alt="environments" style="max-width=100%;">
-<br>
+
 
 <img src="src/imgReadme/add_base.png" alt="adicionar_http" style="max-width=100%;">
+</p>
 <br>
 
 #### Pronto, agora ja temos nossa base de URL preparada
