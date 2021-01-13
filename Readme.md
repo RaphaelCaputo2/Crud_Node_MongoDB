@@ -42,7 +42,7 @@
 
 
   
-#### para acessar as endPoint do Forgot e reset password, é necessário configuração do [mailtrap](https://mailtrap.io/inboxes)
+#### Para acessar as EndPoint do Forgot e Reset password, é necessário configuração do [mailtrap](https://mailtrap.io/inboxes)
 
 <hr>
 
