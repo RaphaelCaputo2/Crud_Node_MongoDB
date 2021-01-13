@@ -253,7 +253,13 @@ se atente as configurações das requisições da API:
 <img src="src/imgReadme/readingALL.png" style="max-width=100%;">
 <br>
 <br>
+
+
 <strong>Para requisitar somente um projeto, você pode usar o ID do projeto/usuário,para fazer a query</strong>
+
+
+
+
 <br>
 <i>
 <code>baseUrl/projects/ID</code>
