@@ -68,12 +68,12 @@ Inicie o servidor<br>
 
 #### Clique em *Manage Environments* :
 <br>
-<p  style="max-width: 100%">
+<p>
 <img src="src/imgReadme/config_environments.png" alt="environments" 
-width="200">
+>
 
 
-<img src="src/imgReadme/add_base.png" alt="adicionar_http" style="max-width=100%;">
+<img src="src/imgReadme/add_base.png" alt="adicionar_http" width="400">
 </p>
 <br>
 
