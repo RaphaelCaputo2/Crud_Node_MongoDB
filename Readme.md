@@ -205,5 +205,5 @@ Configure, e logo depois aperte SEND :
 
 <img src="src/imgReadme/configuracaoReading.png" style="max-width=100%;" />
 
-Lembrete: Na aba *Header* voce coloca Authorization, bearer o token que copiamos no *Environments* 
+Lembrete: Na aba *Header* voce coloca <i>Authorization</i>, <i>bearer + o token</i> que copiamos no *Environments* 
 
