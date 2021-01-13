@@ -70,7 +70,7 @@ Inicie o servidor<br>
 <br>
 <p>
 <img src="src/imgReadme/config_environments.png" alt="environments" 
->
+ width="400">
 
 
 <img src="src/imgReadme/add_base.png" alt="adicionar_http" width="400">
