@@ -89,9 +89,13 @@
 </p>
 <br>
 
+<hr>
+
 #### Pronto, agora ja temos nossa base de URL preparada
 <br>
 <br>
+
+<hr>
 
 ### Agora vamos Organizar as pastas para nossas requisições
 <br>
@@ -106,6 +110,7 @@
 <br>
 <br>
 
+<hr>
 
 ### Feito isso, agora vamos fazer nossas requisições de registro para nossa API
 <br>
@@ -127,6 +132,7 @@
 <br>
 
 
+<hr>
 
 #### Feito isso, vamos a configuração da nossa requisição, nossa *BASEURL* que criamos, um pouco acima, o caminho vai ser:
 <code>*baseURL*/auth/register</code>
@@ -139,6 +145,7 @@
 <br>
 <br>
 
+<hr>
 
 ### Adicione as chaves *JSON* para o registro do novo usuário, e aperte *Send*
 <br>
@@ -152,6 +159,7 @@
 <br>
 <br>
 
+<hr>
 
 ### Agora iremos autenticar esse usuário, que também será uma requisição POST.
 
@@ -178,7 +186,7 @@
 <br>
 <br>
 
-### Irá retornar um token, Copie ele:
+#### Irá retornar um token, Copie ele:
 <br>
 <br>
 <img src="src/imgReadme/token.png" style="max-width=100%;">
@@ -187,6 +195,7 @@
 
 <br>
 
+<hr>
 
 ### Vamos criar uma nova chave, para o objeto no *Environments* (Onde criamos a BASEURL)
 <br>
@@ -205,6 +214,7 @@
 <br>
 <br>
 
+<hr>
 
 ### Agora iremos criar uma nova pasta, para fazermos as requisições do *CRUD*
 <br>
@@ -225,6 +235,7 @@ se atente as configurações das requisições da API:
 <br>
 
 
+<hr>
 
 ### Agora iniciaremos as requisições do CRUD(Nessa parte, iremos usar a chave token, que criamos):
 <br>
@@ -236,7 +247,9 @@ se atente as configurações das requisições da API:
 <br>
 <br>
 
-#### O primeiro sera o CREATE
+<hr>
+
+### O primeiro sera o CREATE
 <br>
 <br>
 
@@ -256,7 +269,9 @@ se atente as configurações das requisições da API:
 <br>
 <br>
 
-#### Agora vamos listar os projetos:
+<hr>
+
+### Agora vamos listar os projetos:
 <br>
 <br>
 
@@ -283,8 +298,9 @@ se atente as configurações das requisições da API:
 <br>
 <br>
 
+<hr>
 
-#### Agora vamos fazer o UPDATE
+### Agora vamos fazer o UPDATE
 <br>
 <br>
 
@@ -303,7 +319,9 @@ se atente as configurações das requisições da API:
 <br>
 <br>
 
-#### Agora vamos fazer, o DELETE( necessário também o ID do projeto/usuario):
+<hr>
+
+### Agora vamos fazer, o DELETE( necessário também o ID do projeto/usuario):
 <br>
 
 Configure, e logo aperte SEND :
