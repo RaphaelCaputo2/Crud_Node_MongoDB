@@ -77,7 +77,46 @@ se atente as configurações das requisições da API:</nav><br>
 <img src="src/imgReadme/pastaCrud.png"><br>
 <br>
 <br>
-Agora iniciaremos as requisições do CRUD:<br>
+Agora iniciaremos as requisições do CRUD(Nessa parte, iremos usar a chave token, que criamos):<br>
+E a base de endereço de nossas requisições é:
+<code>baseUrl/projects</code><br>
+<br>
+<br>
+<p>O primeiro sera o CREATE</p><br>
+vamos configurar a autorização, clique em AUTH e depois em Bearer TOKEN<br>
+<img src="src/imgReadme/configBEARER.png"><br>
+<br>
+E depois clique em BODY e em JSON, depois preencha do jeito que achar melhor, e aperte SEND:<br>
+<img src="src/imgReadme/create.png"><br>
+<br>
+<br>
+Agora vamos listar os projetos:<br>
+e seguiremos essa configuração no HEADER, e com essa BASE de URL!
+<img src="src/imgReadme/readingALL.png"><br>
+<br>
+<strong>Para requisitar somente um projeto, você pode usar o ID do projeto/usuário,para fazer a query</strong>
+<code>baseUrl/projects/ID</code>
+<br>
+<br>
+<br>
+<p>Agora vamos fazer o UPDATE<p><br>
+Configurando a autorização(lembre-se, o ID do projeto é necessário):
+<img src="src/imgReadme/deletando.png"><br>
+<br>
+Fazendo o update:<br>
+<img src="src/imgReadme/update.png"><br>
+<br>
+<p>Agora vamos fazer, o DELETE( necessário também o ID do projeto/usuario):<p><br>
+Configure, e logo aperte SEND :<br>
+<br>
+<img src="src/imgReadme/deletando.png"><br>
+
+<br>
+<br>
+<img src="src/imgReadme/configuracaoReading.png"><br>
+Lembrete: Na aba *Header* voce coloca Authorization, bearer o token que copiamos no *Environments*<br>
+<br>
+
 
 
 
