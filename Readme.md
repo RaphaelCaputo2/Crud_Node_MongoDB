@@ -61,12 +61,10 @@
 
 <hr />
 
-### Adicione Environment:
-#### Clique em *Manage Environments* :
+### Adicione um Ambiente base (poderá ser usado em todo o Workspace)!
+#### Clique em *Manage Environments*:
 
 <p>
-  <img src="src/imgReadme/config_environments.png" alt="environments" width="200" height="320" />
-
 <img src="src/imgReadme/config_environments.png" alt="environments" 
  width="200" height="320">
 <img src="src/imgReadme/add_base.png" alt="adicionar_http" width="400">
