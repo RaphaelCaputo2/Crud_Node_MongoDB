@@ -59,7 +59,7 @@ Inicie o servidor<br>
 ### Inicie o insomnia, clique em *New Workspace* e escolha o nome do seu *Workspace*
 <br>
 
-<img src="src/imgReadme/Iniciando_config.png" alt="Iniciando_configuracao" width="250">
+<img src="src/imgReadme/Iniciando_config.png" alt="Iniciando_configuracao" width="400">
 <br>
 <br>
 
