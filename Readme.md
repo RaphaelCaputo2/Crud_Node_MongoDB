@@ -8,6 +8,26 @@
 ## O que é necessário:
 * NodeJs 11.x.x
 * Insomnia Para testar a API  [Download Aqui](https://insomnia.rest/download/)
+## Features: <br>
+* *Query* de Registro:<br>
+ <http://localhost:3000/auth/register>
+  
+* *Query* de Autenticação:<br>
+  <http://localhost:3000/auth/authenticate>
+  
+* *Query* de Forgot Password:<br>
+ <http://localhost:3000/auth/forgot_password>* 
+  
+* *Query* de Reset Password:<br>
+   <http://localhost:3000/auth/reset_password>*
+
+ * *Query* de listar todos os projeto:<br>
+   <http://localhost:3000/projects>
+  
+#### *para acessar as Query do Forgot e reset password, é necessário configuração do [mailtrap](https://mailtrap.io/inboxes)
+
+## Fazendo o Crud:
+### Para fazer o crud, é necessário estar autenticado com o token.
 
 ## Como iniciar os testes:
 <br>
@@ -125,24 +145,7 @@ Lembrete: Na aba *Header* voce coloca Authorization, bearer o token que copiamos
 <br>
 <br>
 <br>
-## Features:<br>
-* *Query* de Registro:<br>
- <http://localhost:3000/auth/register>
-  
-* *Query* de Autenticação:<br>
-  <http://localhost:3000/auth/authenticate>
-  
-* *Query* de Forgot Password:<br>
- <http://localhost:3000/auth/forgot_password>* 
-  
-* *Query* de Reset Password:<br>
-   <http://localhost:3000/auth/reset_password>*
-  
-#### *para acessar as Query do Forgot e reset password, é necessário configuração do [mailtrap](https://mailtrap.io/inboxes)
-
-## Fazendo o Crud:
-### Para fazer o crud, é necessário estar autenticado com o token.
 
 
 
-* *Listar Projetos* <http://localhost:3000/projects>
+
