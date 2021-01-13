@@ -30,15 +30,17 @@ Inicie o servidor<br>
 ## Configurando o [Insomnia](https://insomnia.rest/download/)
 
 Inicie o insomnia, clique em *New Workspace* e escolha o nome do seu *Workspace*<br>
-<img src="../vagas/src/imgReadme/Iniciando_config.png" alt="Iniciando_configuracao">
+<img src="src/imgReadme/Iniciando_config.png" alt="Iniciando_configuracao">
 <br>
 <br>
 <br>
 Adicione Environment:<br>
 Clique em *Manage Environments*:
-<img src="../vagas/src/imgReadme/config_environments.png" alt="environments" height="350"><br>
-<img src="../vagas/src/imgReadme/add_base.png" alt="adicionar_http" ><br>
+<img src="src/imgReadme/config_environments.png" alt="environments" height="350"><br>
+<img src="src/imgReadme/add_base.png" alt="adicionar_http" ><br>
 <span>Pronto, agora ja temmos nossa base de URL preparada</span>
+<br>
+<br>
 
 
 <br>
