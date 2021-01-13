@@ -211,7 +211,7 @@ Lembrete: Na aba *Header* voce coloca <i>Authorization</i>, <i>bearer + o token<
 
 ### Para resetar e recuperar a sennha é necessário cadastro no [mailTrap](https://mailtrap.io/inboxes), iremos usar esse serviço para simular uma recuperação, pois ele simula uma caixa de email!
 
-<p> Entre no [mailTrap](https://mailtrap.io/inboxes), e cadastre-se, assim que terminar o cadastro,
+<p> Entre no link (https://mailtrap.io/inboxes), e cadastre-se, assim que terminar o cadastro,
 vá na aba de configurações
 <img src="/src/imgReadme/mailtrap1.png/"><br>
 Selecione <i>Nodemailer</i>
