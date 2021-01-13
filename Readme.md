@@ -59,7 +59,7 @@ Inicie o servidor<br>
 ### Inicie o insomnia, clique em *New Workspace* e escolha o nome do seu *Workspace*
 <br>
 
-<img src="src/imgReadme/Iniciando_config.png" alt="Iniciando_configuracao" style="max-width=100%;">
+<img src="src/imgReadme/Iniciando_config.png" alt="Iniciando_configuracao" width="250">
 <br>
 <br>
 
@@ -68,8 +68,9 @@ Inicie o servidor<br>
 
 #### Clique em *Manage Environments* :
 <br>
-<p style="align: left" style="max-width: 100%">
-<img src="src/imgReadme/config_environments.png" alt="environments" style="max-width=100%;">
+<p  style="max-width: 100%">
+<img src="src/imgReadme/config_environments.png" alt="environments" 
+width="200">
 
 
 <img src="src/imgReadme/add_base.png" alt="adicionar_http" style="max-width=100%;">
