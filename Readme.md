@@ -1,4 +1,4 @@
-# Bem vindo ao repositório de CRUD com NodeJs + Express + MongoDb do candidato Raphael Caputo:
+# Bem vindo ao repositório de CRUD com NodeJs + Express + MongoDb:
 
 ## Tecnologias que foram utilizadas:
 * NodeJs + Express (para fazer as rotas das API)
